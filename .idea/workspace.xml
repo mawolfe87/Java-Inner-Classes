@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2193df6a-ba8d-40b2-9ca7-ee35898fb0a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/Connection.java" afterPath="$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/Connection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/ConnectionManager.java" afterPath="$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/ConnectionManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/wolfe/michael/InnerClassesTest/ConnectionManagerTest.java" afterPath="$PROJECT_DIR$/src/test/java/wolfe/michael/InnerClassesTest/ConnectionManagerTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,57 +18,59 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <splitter split-orientation="horizontal" split-proportion="0.5">
+            <split-first>
+              <leaf>
+                <file leaf-file-name="ConnectionManager.java" pinned="false" current-in-tab="true">
+                  <entry file="file://$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/ConnectionManager.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="1139">
+                        <caret line="70" column="41" lean-forward="true" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+                        <folding>
+                          <element signature="docComment;class#ConnectionManager#0" expanded="false" />
+                          <element signature="e#367#368#0" expanded="true" />
+                          <element signature="e#408#409#0" expanded="true" />
+                          <element signature="e#1585#1586#0" expanded="true" />
+                          <element signature="e#1619#1620#0" expanded="true" />
+                          <element signature="e#3144#3145#0" expanded="true" />
+                          <element signature="e#3186#3187#0" expanded="true" />
+                          <element signature="e#3243#3244#0" expanded="true" />
+                          <element signature="e#3287#3288#0" expanded="true" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+              </leaf>
+            </split-first>
+            <split-second>
+              <leaf>
+                <file leaf-file-name="ConnectionManagerTest.java" pinned="false" current-in-tab="true">
+                  <entry file="file://$PROJECT_DIR$/src/test/java/wolfe/michael/InnerClassesTest/ConnectionManagerTest.java">
+                    <provider selected="true" editor-type-id="text-editor">
+                      <state relative-caret-position="952">
+                        <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+                        <folding>
+                          <element signature="imports" expanded="true" />
+                        </folding>
+                      </state>
+                    </provider>
+                  </entry>
+                </file>
+              </leaf>
+            </split-second>
+          </splitter>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ConnectionManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/ConnectionManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-              <folding>
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Connection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/Connection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectionManagerTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/wolfe/michael/InnerClassesTest/ConnectionManagerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/wolfe/michael/InnerClassesTest/ConnectionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,8 +95,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/Protocol.java" />
         <option value="$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/ConnectionStatus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/ConnectionManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/Connection.java" />
         <option value="$PROJECT_DIR$/src/test/java/wolfe/michael/InnerClassesTest/ConnectionManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/ConnectionManager.java" />
       </list>
     </option>
   </component>
@@ -615,6 +620,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2193df6a-ba8d-40b2-9ca7-ee35898fb0a9" name="Default" comment="" />
@@ -622,12 +630,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486054287365</updated>
-      <workItem from="1486054289964" duration="521000" />
+      <workItem from="1486054289964" duration="9766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="521000" />
+    <option name="totallyTimeSpent" value="9766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -682,14 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/wolfe/michael/InnerClassesTest/ConnectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -706,6 +706,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/wolfe/michael/InnerClassesTest/ConnectionManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/ConnectionStatus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -716,23 +734,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/wolfe/michael/InnerClasses/ConnectionManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="1139">
+          <caret line="70" column="41" lean-forward="true" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
           <folding>
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/wolfe/michael/InnerClassesTest/ConnectionManagerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
+            <element signature="docComment;class#ConnectionManager#0" expanded="false" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#1585#1586#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+            <element signature="e#3144#3145#0" expanded="true" />
+            <element signature="e#3186#3187#0" expanded="true" />
+            <element signature="e#3243#3244#0" expanded="true" />
+            <element signature="e#3287#3288#0" expanded="true" />
           </folding>
         </state>
       </provider>
